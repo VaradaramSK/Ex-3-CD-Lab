@@ -14,6 +14,8 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 # PROGRAM
 
 ```
+Name: Varadaram SK
+Register no: 212223040232
 %{
 /* This LEX program returns the tokens for the expression */
 #include "y.tab.h"
